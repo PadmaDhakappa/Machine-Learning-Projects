@@ -7,3 +7,4 @@ Here are a few basic machine learning projects worked on
 5. Simple Logistic Regression
 6. Multiclass Logistic Regression
 7. Decision Tree
+8. Support Vector Machine
