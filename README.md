@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-Here are a few basic machine learning projects worked on
+Here are a few basic machine learning projects I worked on as a begineer:
 1. Simple Linear Regression (Single Variable)
 2. Multivariate Linear Regression
 3. Implementation of Gradient Descent
