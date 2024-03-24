@@ -10,3 +10,4 @@ Here are a few basic machine learning projects I worked on as a begineer:
 8. Support Vector Machine
 9. Random Forest Classifier
 10. K-Fold
+11. K-Means Clustering
