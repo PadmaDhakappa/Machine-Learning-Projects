@@ -11,4 +11,5 @@ Here are a few basic machine learning projects I worked on as a begineer:
 9. Random Forest Classifier
 10. K-Fold
 11. K-Means Clustering
-12. Naive Bayes Algorithm on Titanic Dataset
+12. Gaussian Naive Bayes Algorithm on Titanic Dataset
+13. Multinomial Naive Bayes to check if email is Spam or not
